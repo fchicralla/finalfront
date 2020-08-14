@@ -1,0 +1,13 @@
+nav {
+  background-image: linear-gradient(darkorange, orange);
+}
+
+body {
+  background-color: gray;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }

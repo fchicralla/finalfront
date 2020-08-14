@@ -1,0 +1,38 @@
+nav {
+    background-image: linear-gradient(darkorange, orange);
+}
+
+body {
+    background-color: gray;
+}
+
+#titulo{
+    text-shadow: 1px 1px 5px;
+    margin-top: 2%;
+    align-content: center;
+}
+
+#tituloopcoes{
+    color: white;
+    background-color: darkblue;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: -20px;
+}
+
+#opcoes{
+    border:1px solid black;
+    border-radius: 10px;
+    padding:20px;
+    
+}
+
+#logoutbutton {
+    line-height: 12px;
+    width: 18px;
+    font-size: 8pt;
+    font-family: tahoma;
+    position:absolute;
+    top:10;
+    right:80;
+}
